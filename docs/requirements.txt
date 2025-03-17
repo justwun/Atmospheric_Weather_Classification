@@ -1,0 +1,9 @@
+scikit-learn
+optuna
+ipykernel
+pyyaml
+joblib
+seaborn
+matplotlib
+pandas
+numpy
