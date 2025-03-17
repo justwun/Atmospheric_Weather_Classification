@@ -1,0 +1,4 @@
+paths:
+  data: "D:/Workspace/Research_Fields/Atmospheric_Data_Visualization/Weather_Classification/data/weather_classification_data.csv"
+  model: "D:/Workspace/Research_Fields/Atmospheric_Data_Visualization/Weather_Classification/model"
+  figure: "D:/Workspace/Research_Fields/Atmospheric_Data_Visualization/Weather_Classification/report/figure"
