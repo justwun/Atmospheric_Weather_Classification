@@ -1,0 +1,6 @@
+,model,accuracy,precision,f1_score,recall,param
+0,RandomForestClassifier,0.9751924721984602,0.9754473580940521,0.9752739318816245,0.9751924721984602,"{'bootstrap': True, 'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 200}"
+1,SVC,0.9730538922155688,0.9731977680883238,0.9731076943204324,0.9730538922155688,"{'C': 10, 'degree': 2, 'gamma': 'auto', 'kernel': 'rbf'}"
+2,GaussanNB,0.9422583404619332,0.9427173501073742,0.9421750659275778,0.9422583404619332,{'var_smoothing': 0.001}
+3,SGDClassifier,0.9443969204448246,0.9459103887909086,0.9447433585775942,0.9443969204448246,"{'alpha': 0.01, 'learning_rate': 'optimal', 'loss': 'modified_huber', 'max_iter': 1000, 'penalty': 'l1', 'tol': 0.001}"
+4,MLPClassifier,0.9683490162532079,0.9685819081554315,0.9684244567869341,0.9683490162532079,"{'activation': 'relu', 'alpha': np.float64(0.1), 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'max_iter': 200, 'solver': 'adam'}"
